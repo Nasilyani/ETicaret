@@ -44,6 +44,7 @@
     <Compile Include="Option\Category.cs" />
     <Compile Include="Option\Comment.cs" />
     <Compile Include="Option\Like.cs" />
+    <Compile Include="Option\Order.cs" />
     <Compile Include="Option\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
