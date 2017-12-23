@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret", "ETicaret\ETicaret.csproj", "{FA0A20BC-07D4-456C-AE42-1648663E91AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Core", "ETicaret.Core\ETicaret.Core.csproj", "{C754EF72-D0B6-481E-963C-54C54C7CCFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretModel", "ETicaretModel\ETicaretModel.csproj", "{E61DAB17-1D6F-408E-A0FB-E54D84834BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Map", "ETicaret.Map\ETicaret.Map.csproj", "{79908348-0890-4CF3-A3CC-A932B85798D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0A20BC-07D4-456C-AE42-1648663E91AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0A20BC-07D4-456C-AE42-1648663E91AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0A20BC-07D4-456C-AE42-1648663E91AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0A20BC-07D4-456C-AE42-1648663E91AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C754EF72-D0B6-481E-963C-54C54C7CCFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C754EF72-D0B6-481E-963C-54C54C7CCFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C754EF72-D0B6-481E-963C-54C54C7CCFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C754EF72-D0B6-481E-963C-54C54C7CCFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61DAB17-1D6F-408E-A0FB-E54D84834BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61DAB17-1D6F-408E-A0FB-E54D84834BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61DAB17-1D6F-408E-A0FB-E54D84834BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61DAB17-1D6F-408E-A0FB-E54D84834BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79908348-0890-4CF3-A3CC-A932B85798D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79908348-0890-4CF3-A3CC-A932B85798D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79908348-0890-4CF3-A3CC-A932B85798D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79908348-0890-4CF3-A3CC-A932B85798D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
