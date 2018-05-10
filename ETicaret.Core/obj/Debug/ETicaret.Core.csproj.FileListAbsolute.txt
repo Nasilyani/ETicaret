@@ -1,0 +1,9 @@
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\ETicaret.Core.dll.config
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\ETicaret.Core.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\ETicaret.Core.pdb
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\EntityFramework.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\EntityFramework.xml
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\obj\Debug\ETicaret.Core.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Core\obj\Debug\ETicaret.Core.pdb

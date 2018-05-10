@@ -39,6 +39,17 @@ namespace ETicaret.Map.Option
                .HasForeignKey(x => x.ProductID)
                .WillCascadeOnDelete(true);
 
+            HasMany(x => x.OrderDetails)
+                .WithRequired(x => x.Product)
+                .HasForeignKey(x => x.ProductID)
+                .WillCascadeOnDelete(true);
+
+            HasMany(x => x.ImagesForProducts)
+                .WithRequired(x => x.Product)
+                .HasForeignKey(x => x.ProductID)
+                .WillCascadeOnDelete(true);
+
+           
         }
     }
 }

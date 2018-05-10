@@ -1,0 +1,14 @@
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaret.Map.dll.config
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaret.Map.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaret.Map.pdb
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\EntityFramework.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaret.Core.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaretModel.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaret.Core.pdb
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\ETicaretModel.pdb
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\EntityFramework.xml
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\obj\Debug\ETicaret.Map.csprojResolveAssemblyReference.cache
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\obj\Debug\ETicaret.Map.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Map\obj\Debug\ETicaret.Map.pdb

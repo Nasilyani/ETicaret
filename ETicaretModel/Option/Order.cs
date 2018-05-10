@@ -10,8 +10,9 @@ namespace ETicaretModel.Option
    public class Order:CoreEntity
     {
         public DateTime? OrderDate { get; set; }
-        public int AppUserID { get; set; }
+        public Guid AppUserID { get; set; }
         public virtual AppUser AppUser { get; set; }
+        public virtual List<OrderDetails> OrderDetails { get; set; }
 
     }
 }

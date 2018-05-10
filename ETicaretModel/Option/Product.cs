@@ -19,6 +19,14 @@ namespace ETicaretModel.Option
         public virtual Category Category { get; set; }
         public virtual AppUser AppUser { get; set; }
         public virtual List<Comment> Comments { get; set; }
-        public virtual List<Like> Likes { get; set; }
+       
+        public bool isPending { get; set; }
+        public short? UnitsOnOrder { get; set; }
+        public virtual List<OrderDetails> OrderDetails { get; set; }
+        public virtual List<ImagesForProducts> ImagesForProducts { get; set; }
+
+        public virtual List<DisLike> DisLikes { get; set; }
+
+
     }
 }

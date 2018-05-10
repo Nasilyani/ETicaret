@@ -1,0 +1,4 @@
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Utility\bin\Debug\ETicaret.Utility.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Utility\bin\Debug\ETicaret.Utility.pdb
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Utility\obj\Debug\ETicaret.Utility.dll
+C:\Users\MertCan\Desktop\ETicaret\ETicaret.Utility\obj\Debug\ETicaret.Utility.pdb

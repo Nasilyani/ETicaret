@@ -29,6 +29,9 @@ namespace ETicaretModel.Option
 
         public virtual List<Comment> Comments { get; set; }
         public virtual List<Product> Products { get; set; }
-        public virtual List<Like> Likes { get; set; }
+       
+        public virtual List<Order> Orders { get; set; }
+        public virtual List<TreeComment> TreeComment { get; set; }
+        public virtual List<DisLike> DisLikes { get; set; }
     }
 }

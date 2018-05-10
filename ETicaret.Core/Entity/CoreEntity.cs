@@ -1,6 +1,7 @@
 ﻿using ETicaret.Core.Enum;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -21,7 +22,7 @@ namespace ETicaret.Core.Entity
 
         }
 
-
+        [Key]
         public Guid Id { get; set; }
         public DateTime? CreatedDate { get; set; }
         public string CreatedComputerName { get; set; }

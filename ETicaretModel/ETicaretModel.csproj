@@ -43,9 +43,12 @@
     <Compile Include="Option\AppUser.cs" />
     <Compile Include="Option\Category.cs" />
     <Compile Include="Option\Comment.cs" />
-    <Compile Include="Option\Like.cs" />
+    <Compile Include="Option\DisLike.cs" />
+    <Compile Include="Option\ImagesForProducts.cs" />
     <Compile Include="Option\Order.cs" />
+    <Compile Include="Option\OrderDetails.cs" />
     <Compile Include="Option\Product.cs" />
+    <Compile Include="Option\TreeComment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

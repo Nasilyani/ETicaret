@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretModel", "ETicaretMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Map", "ETicaret.Map\ETicaret.Map.csproj", "{79908348-0890-4CF3-A3CC-A932B85798D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{15C319A8-C62C-45A5-A71A-6C9C5E916DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Utility", "ETicaret.Utility\ETicaret.Utility.csproj", "{C66204B3-789A-4DC6-9F5E-C2A9562ADD42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{79908348-0890-4CF3-A3CC-A932B85798D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79908348-0890-4CF3-A3CC-A932B85798D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79908348-0890-4CF3-A3CC-A932B85798D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C319A8-C62C-45A5-A71A-6C9C5E916DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C319A8-C62C-45A5-A71A-6C9C5E916DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C319A8-C62C-45A5-A71A-6C9C5E916DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C319A8-C62C-45A5-A71A-6C9C5E916DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66204B3-789A-4DC6-9F5E-C2A9562ADD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66204B3-789A-4DC6-9F5E-C2A9562ADD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66204B3-789A-4DC6-9F5E-C2A9562ADD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66204B3-789A-4DC6-9F5E-C2A9562ADD42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

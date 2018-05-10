@@ -50,7 +50,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Option\AppUserMap.cs" />
+    <Compile Include="Option\CategoryMap.cs" />
+    <Compile Include="Option\CommentMap.cs" />
+    <Compile Include="Option\DisLikeMap.cs" />
+    <Compile Include="Option\ImagesForProductsMap.cs" />
+    <Compile Include="Option\OrderDetailsMap.cs" />
+    <Compile Include="Option\OrderMap.cs" />
     <Compile Include="Option\ProductMap.cs" />
+    <Compile Include="Option\TreeCommentMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

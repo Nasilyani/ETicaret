@@ -39,6 +39,16 @@ namespace ETicaret.Map.Option
                .HasForeignKey(x => x.AppUserID)
                .WillCascadeOnDelete(false);
 
+            HasMany(x => x.Orders)
+                .WithRequired(x => x.AppUser)
+                .HasForeignKey(x=>x.AppUserID)
+                .WillCascadeOnDelete(false);
+
+            HasMany(x => x.TreeComment)
+                .WithRequired(x => x.AppUser)
+                .HasForeignKey(x => x.AppUserID)
+                .WillCascadeOnDelete(true);
+
             //bir kullanıcının birden fazla ürünü olabilir ve aynı zamanda birden fazla yorumu olabilir ama bir yorumun yada ürünün bir tane appuser'ı olabilir.
 
         }

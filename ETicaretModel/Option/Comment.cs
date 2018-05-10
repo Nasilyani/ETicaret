@@ -16,5 +16,6 @@ namespace ETicaretModel.Option
 
         public virtual Product Product { get; set; }
         public virtual AppUser AppUser { get; set; }
+        public virtual List<TreeComment> TreeComment { get; set; }
     }
 }
